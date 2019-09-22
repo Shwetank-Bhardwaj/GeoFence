@@ -1,0 +1,2 @@
+include ':app', ':easygeo'
+rootProject.name='GeoFence'
